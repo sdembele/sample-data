@@ -7,8 +7,11 @@ Collections of sample data.
 | [departments-and-employees](./departments-and-employees) | A fictional data set about a company's departments and employees | None |
 
 Get all countries in the world: https://lyvegavdxfujxwm-oracleadb.adb.us-phoenix-1.oraclecloudapps.com/ords/sample_data/retrieve/countries
+
 Get a specific country by its country code: https://lyvegavdxfujxwm-oracleadb.adb.us-phoenix-1.oraclecloudapps.com/ords/sample_data/retrieve/country/<country code>
+
 Get all employees: https://lyvegavdxfujxwm-oracleadb.adb.us-phoenix-1.oraclecloudapps.com/ords/sample_data/retrieve/employees
+
 Get a specific employee by the ID: https://lyvegavdxfujxwm-oracleadb.adb.us-phoenix-1.oraclecloudapps.com/ords/sample_data/retrieve/employee/<employee id>
 
 ## License
